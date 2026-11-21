@@ -1,5 +1,7 @@
 # ZAP C++
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zap-cpp&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zap-cpp&ref=main&action=edit)
+
 ZAP Protocol's fork of [Cap'n Proto](https://capnproto.org/) - an insanely fast data interchange format and capability-based RPC system.
 
 ## Features
